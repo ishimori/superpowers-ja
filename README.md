@@ -72,7 +72,7 @@ Claude Code に「スキル」という形でワークフローを注入し、AI
 本リポジトリをそのままスターターキットとして使います。
 
 ```bash
-git clone https://github.com/your-org/superpowers-ja your-project
+git clone https://github.com/ishimori/superpowers-ja your-project
 cd your-project
 ```
 
